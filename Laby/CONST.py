@@ -1,0 +1,9 @@
+global VOID, WALL, PATH, LARGEUR, HAUTEUR
+PATH = 'p'
+WALL = 'w'
+VOID = 'v'
+PERSO = 'x'
+ENNEMIE = 'e'
+LARGEUR = 22
+HAUTEUR = 22
+UPDATE=1
